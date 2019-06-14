@@ -1,0 +1,9 @@
+body {
+	font-family: sans-serif;
+}
+
+h1 {
+	font-family: monospace;
+	color: #f00;
+	text-align: center;
+}
