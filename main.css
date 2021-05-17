@@ -11,3 +11,29 @@ h1 {
 .small {
 	font-size: 8px;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ADD8E6;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  font-family: sans-serif;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #AAA8E6;
+}
